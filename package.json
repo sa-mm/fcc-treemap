@@ -1,0 +1,29 @@
+{
+  "name": "treemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "standard": {
+    "globals": [
+      "d3"
+    ]
+  },
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa-mm/fcc-treemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa-mm/fcc-treemap/issues"
+  },
+  "homepage": "https://github.com/sa-mm/fcc-treemap#readme",
+  "devDependencies": {
+    "d3": "^4.9.1",
+    "serve": "^6.0.0"
+  }
+}
